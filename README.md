@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 CS/IS undergrad at Sahyadri College of Engineering & Management (VTU)
+- 🎓 CS/IS undergrad at Sahyadri College of Engineering & Management 
 - 🔭 Currently building backend APIs and IoT hardware projects
 - 🌱 Learning embedded systems, algorithms (DAA), and web technologies
 - ⚡ Fun fact: I like turning random ideas into working prototypes
