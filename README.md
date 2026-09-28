@@ -9,12 +9,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=root%40RYUO-00%3A~%23+whoami;Cybersecurity+%7C+Offensive+Security;Breaking+things+to+understand+them" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=RYUO-00&label=PROFILE+SCANS&color=00FF41&style=for-the-badge&labelColor=0d1117" />
 </div>
