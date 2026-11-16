@@ -6,6 +6,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/megumin.gif" alt="Megumin anime animation" width="310" />
+</p>
+
 ---
 
 I like understanding how systems work and building tools to explore them. Most of my projects are around computer networks, security concepts, and practical web applications.
