@@ -6,9 +6,17 @@
 
 </div>
 
+#### code stats
+
 <p align="center">
-  <img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/megumin.gif" alt="Megumin anime animation" width="310" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RYUO-00&amp;layout=compact&amp;theme=github_dark_dimmed&amp;hide_border=true&amp;langs_count=8&amp;card_width=480" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RYUO-00&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;langs_count=8&amp;card_width=480" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RYUO-00&amp;layout=compact&amp;theme=github_dark_dimmed&amp;hide_border=true&amp;langs_count=8&amp;card_width=480" alt="Languages used in RYUO-00's public repositories" width="480" />
+  </picture>
 </p>
+
+<sub>Repository language breakdown (not time tracked in an editor).</sub>
 
 ---
 
@@ -48,3 +56,7 @@ I like understanding how systems work and building tools to explore them. Most o
 #### tools & languages
 
 Python · JavaScript / TypeScript · C / C++ · React · Linux · Wireshark · Git
+
+<p align="center">
+  <img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/megumin.gif" alt="Animated pixel-art Megumin characters" width="50%" />
+</p>
